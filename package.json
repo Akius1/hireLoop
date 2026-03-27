@@ -9,9 +9,17 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^3.0.63",
+    "@anthropic-ai/sdk": "^0.80.0",
+    "@notionhq/client": "^2.2.15",
+    "ai": "^6.0.137",
+    "lucide-react": "^1.0.1",
     "next": "16.2.1",
+    "pdfjs-dist": "^5.5.207",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-dropzone": "^15.0.0",
+    "resend": "^6.9.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
