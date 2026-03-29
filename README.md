@@ -2,6 +2,8 @@
 
 > Built for the [Notion AI Challenge](https://events.mlh.io/events/13841-the-notion-ai-challenge) · Major League Hacking × Notion
 
+**Live Demo: [https://hire-loop-nine.vercel.app/](https://hire-loop-nine.vercel.app/)**
+
 HireLoop turns your Notion workspace into a fully autonomous hiring system. Candidates apply, get screened by Claude AI in seconds, are automatically logged to a Notion database, and flow through a drag-and-drop kanban pipeline — all without a recruiter touching a thing until it actually matters.
 
 ---
